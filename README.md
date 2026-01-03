@@ -105,3 +105,19 @@ These results enable direct comparison between different strategies and asset un
 
 ## 📂 Project Structure
 
+
+---
+
+## 🧾 Requirements
+
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- SciPy
+
+---
+
+## 📜 License
+
+This project is for academic and educational purposes.
